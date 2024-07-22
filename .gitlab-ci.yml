@@ -1,0 +1,16 @@
+huffman:
+    script: "/testers/cs37/zip/huffman/test"
+inflate:
+    script: "/testers/cs37/zip/inflate/test"
+lz77:
+    script: "/testers/cs37/zip/lz77/test"
+myunzip:
+    script: "/testers/cs37/zip/myunzip/test"
+myunzip0:
+    script: "/testers/cs37/zip/myunzip0/test"
+myzip:
+    script: "/testers/cs37/zip/myzip/test"
+myzip0:
+    script: "/testers/cs37/zip/myzip0/test"
+reveal:
+    script: "/testers/cs37/zip/reveal/test"

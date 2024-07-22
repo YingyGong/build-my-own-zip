@@ -1,0 +1,4 @@
+[workspace]
+members = [ "inflate",  "huffman", "myunzip0",
+    "myzip0"
+, "lz77", "myunzip", "myzip"]
